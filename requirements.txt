@@ -1,0 +1,12 @@
+langchain
+langgraph
+qdrant-client
+openai
+streamlit
+pytest
+langsmith
+PyPDF2
+requests
+python-dotenv
+tiktoken
+langchain-community
