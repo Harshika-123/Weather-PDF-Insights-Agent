@@ -22,8 +22,8 @@ This project demonstrates a modular AI pipeline integrating **LangChain**, **Lan
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-pipeline-assignment.git
-cd ai-pipeline-assignment
+git clone https://github.com/Harshika-123/Weather-PDF-Insights-Agent.git
+cd Weather-PDF-Insights-Agent
 ```
 
 ---
